@@ -28,6 +28,8 @@ The project consists of the following parts, each hosted on ObservableHQ:
 - **A2 Q4**: [COVID-19 Hotspot Identification](https://observablehq.com/d/246f2d62fe702d66)
 - **A2 Q5**: [COVID-19 Death Rate Visualization](https://observablehq.com/d/41e6b997876ec5ad)
 
+**Disclaimer: The images on the ObservableHQ website may load slowly and take some time to appear. Please be patient while the visualizations load.**
+
 ## Installation
 
 To view these visualizations, you don't need to install anything locally. Simply follow the links provided above to view the visualizations directly on ObservableHQ.

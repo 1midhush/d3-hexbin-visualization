@@ -44,7 +44,7 @@ This visualization plots the locations of Walmart stores in the USA, with bubble
 
 [View Visualization](https://observablehq.com/d/a98b65034b3012c2)
 
-![Walmart Store Age Visualization](https://your-image-link.com/A2_Q1.png)
+![Walmart Store Age Visualization](https://github.com/1midhush/d3-hexbin-visualization/blob/main/A2%20Q1.png?raw=true)
 
 ### Aggregated Walmart Store Age
 
@@ -52,7 +52,7 @@ This visualization aggregates the age of Walmart stores within a specified diame
 
 [View Visualization](https://observablehq.com/d/3a5a26f02aa65200)
 
-![Aggregated Walmart Store Age](https://your-image-link.com/A2_Q2.png)
+![Aggregated Walmart Store Age](https://github.com/1midhush/d3-hexbin-visualization/blob/main/A2%20Q2.png?raw=true)
 
 ### Influenced Age of Walmart Stores
 
@@ -60,7 +60,7 @@ This visualization aggregates the influenced age within a specified diameter, gi
 
 [View Visualization](https://observablehq.com/d/a4069ac4745ccf2a)
 
-![Influenced Age of Walmart Stores](https://your-image-link.com/A2_Q3.png)
+![Influenced Age of Walmart Stores](https://github.com/1midhush/d3-hexbin-visualization/blob/main/A2%20Q3.png?raw=true)
 
 ### COVID-19 Hotspot Identification
 
@@ -68,7 +68,7 @@ This visualization identifies locations consistently under threat from COVID-19,
 
 [View Visualization](https://observablehq.com/d/246f2d62fe702d66)
 
-![COVID-19 Hotspot Identification](https://your-image-link.com/A2_Q4.png)
+![COVID-19 Hotspot Identification](https://github.com/1midhush/d3-hexbin-visualization/blob/main/A2%20Q4.png?raw=true)
 
 ### COVID-19 Death Rate Visualization
 
@@ -76,7 +76,7 @@ This visualization shows regions where the plots are proportional to the percent
 
 [View Visualization](https://observablehq.com/d/41e6b997876ec5ad)
 
-![COVID-19 Death Rate Visualization](https://your-image-link.com/A2_Q5.png)
+![COVID-19 Death Rate Visualization](https://github.com/1midhush/d3-hexbin-visualization/blob/main/A2%20Q5.png?raw=true)
 
 ## Data Sources
 
